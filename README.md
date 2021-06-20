@@ -1,4 +1,4 @@
-# ludo-naija-multi
+# ludo-naija-multiplayer
 A multiplayer Naija Ludo Game created with React
 
 # Watch this space
